@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExemplosLinq</id>
+    <version>1.0.0</version>
+    <authors>ExemplosLinq</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ExemplosLinq.runtimeconfig.json" target="lib\net6.0\ExemplosLinq.runtimeconfig.json" />
+    <file src="C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ExemplosLinq.dll" target="lib\net6.0\ExemplosLinq.dll" />
+  </files>
+</package>
