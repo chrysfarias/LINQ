@@ -2,7 +2,6 @@ C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\E
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ExemplosLinq.deps.json
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ExemplosLinq.runtimeconfig.json
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ExemplosLinq.dll
-C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ref\ExemplosLinq.dll
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\bin\Debug\net6.0\ExemplosLinq.pdb
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\ExemplosLinq.csproj.AssemblyReference.cache
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\ExemplosLinq.GeneratedMSBuildEditorConfig.editorconfig
@@ -13,3 +12,4 @@ C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\E
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\ref\ExemplosLinq.dll
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\ExemplosLinq.pdb
 C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\ExemplosLinq.genruntimeconfig.cache
+C:\Users\chrys\WindowsForms\projeto\ExemplosLinq\ExemplosLinq\obj\Debug\net6.0\refint\ExemplosLinq.dll
